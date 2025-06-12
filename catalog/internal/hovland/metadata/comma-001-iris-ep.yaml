@@ -1,0 +1,88 @@
+release:
+  catalog_number: COMMA.001
+  title: "Iris EP"
+  artists:
+    - Hovland
+    - Marensius
+  genre: House
+  release_date: 2025-02-12
+  label: "COMMA.records"
+  release_id: 3626535
+  splits:
+    COMMA.records: 100.00
+
+tracks:
+  - number: 1
+    title: "Transit"
+    isrc: "SE5BU2544210"
+    audio_file: "../audio/Hovland, Marensius - Transit (Master).wav"
+    contributors:
+      - name: Hovland
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1259552821
+      - name: Marensius
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1133476962
+      - name: Bendik Nesheim
+        roles: ["Co-producer"]
+        ipi: 1259553034
+
+  - number: 2
+    title: "Ekeberg"
+    isrc: "SE5BU2544211"
+    audio_file: "../audio/Hovland, Marensius - Ekeberg (Original Mix).wav"
+    contributors:
+      - name: Hovland
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1259552821
+      - name: Marensius
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1133476962
+      - name: Bendik Nesheim
+        roles: ["Composer", "Co-producer"]
+        ipi: 1259553034
+
+  - number: 3
+    title: "Iris"
+    isrc: "SE5BU2544212"
+    audio_file: "../audio/Hovland, Marensius - Iris (Original Mix).wav"
+    contributors:
+      - name: Hovland
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1259552821
+      - name: Marensius
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1133476962
+      - name: Bendik Nesheim
+        roles: ["Composer", "Co-producer"]
+        ipi: 1259553034
+
+  - number: 4
+    title: "Transit (Radio Edit)"
+    isrc: "SE5BU2544213"
+    audio_file: "../audio/Hovland, Marensius - Transit (Edit) (Master).wav"
+    contributors:
+      - name: Hovland
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1259552821
+      - name: Marensius
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1133476962
+      - name: Bendik Nesheim
+        roles: ["Co-producer"]
+        ipi: 1259553034
+
+  - number: 5
+    title: "Iris (Radio Edit)"
+    isrc: "SE5BU2544214"
+    audio_file: "../audio/Hovland, Marensius - Iris (Radio Edit).wav"
+    contributors:
+      - name: Hovland
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1259552821
+      - name: Marensius
+        roles: ["Primary artist", "Producer", "Composer", "Programming (DAW)"]
+        ipi: 1133476962
+      - name: Bendik Nesheim
+        roles: ["Composer", "Co-producer"]
+        ipi: 1259553034

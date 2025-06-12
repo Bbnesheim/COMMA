@@ -1,0 +1,94 @@
+# ——————————————
+# Ignore all in-progress design assets
+# ——————————————
+design-assets/
+design-assetsgraphics/
+design-assetsphotoshoots/
+design-assetsvideo/
+
+# ——————————————
+# Ignore all camera and video files anywhere
+# ——————————————
+**/*.NEF
+**/*.CR2
+**/*.CR3
+**/*.mov
+**/*.MP4
+**/*.mp4
+
+# ——————————————
+# Ignore all audio masters in catalog folders
+# ——————————————
+catalog/**/*.wav
+catalog/**/*.flac
+catalog/**/*.aif
+catalog/**/*.aiff
+catalog/**/*.mp3
+
+# ——————————————
+# OS, IDE & build cruft
+# ——————————————
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+^\
+
+# ====================================
+# Ignore all design, photo, and video assets (raw/source)
+# ====================================
+design-assets/
+photoshoots/
+video/
+
+# If you keep temp, backup, or working folders elsewhere, add them here
+tmp/
+temp/
+backups/
+drafts/
+
+# ====================================
+# Ignore all raw audio and video files, anywhere in catalog
+# ====================================
+**/*.wav
+**/*.aiff
+**/*.aif
+**/*.flac
+**/*.mp3
+**/*.ogg
+**/*.stem
+**/*.mov
+**/*.MOV
+**/*.mp4
+**/*.MP4
+
+# ====================================
+# Ignore raw camera files (photos)
+# ====================================
+**/*.NEF
+**/*.CR2
+**/*.CR3
+**/*.ARW
+**/*.RAF
+**/*.RW2
+
+# ====================================
+# OS & Editor Junk
+# ====================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+.env
+
+# ====================================
+# Ignore temp files & misc
+# ====================================
+*.bak
+*.tmp
+*~
+folder-structure.txt
