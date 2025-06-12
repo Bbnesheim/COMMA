@@ -1,0 +1,33 @@
+id: COMMA.004
+title: "Violand - Lamta"
+genre: House
+release_id: 3751546
+label: COMMA.records
+tracks:
+  - track_number: 1
+    title: "Lamta"
+    artists:
+      - name: Violand
+        role: Primary artist
+    version: original
+    isrc: SE6XY2570444
+    file: "../audio/lamta/Violand - Lamta.wav"
+    contributors:
+      - name: Violand
+        role: Producer
+      - name: Herman Hovland
+        role: Composer
+      - name: Jørgen Vigre
+        role: Composer
+      - name: Herman Hovland
+        role: Programming (DAW)
+      - name: Jørgen Vigre
+        role: Programming (DAW)
+      - name: Bendik Nesheim
+        role: Graphic design
+      - name: Jørgen Vigre
+        role: Co-producer
+splits:
+  - party: COMMA records
+    status: Active
+    share: 100.00%
