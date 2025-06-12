@@ -1,0 +1,27 @@
+id: COMMA.002
+title: "Hovland - Grosso"
+genre: House
+release_id: 3693918
+label: COMMA.records
+tracks:
+  - track_number: 1
+    title: "Grosso"
+    artists:
+      - name: Hovland
+        role: Primary artist
+    version: original
+    isrc: SE6XY2512680
+    file: "../audio/grosso/Hovland - Grosso.wav"
+    contributors:
+      - name: Hovland
+        role: Producer
+      - name: Herman Hovland
+        role: Composer
+      - name: Herman Hovland
+        role: Programming (DAW)
+      - name: Bendik Nesheim
+        role: Co-producer
+splits:
+  - party: COMMA records
+    status: Active
+    share: 100.00%
