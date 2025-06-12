@@ -1,0 +1,102 @@
+id: COMMA.005
+title: "DECO 5000 - Decosystema Vol. 1"
+genre: Trance
+release_date: 2025-06-06
+release_id: 3825337
+label: COMMA.records
+
+tracks:
+  - track_number: 1
+    title: "Decosystema"
+    artists:
+      - name: DECO 5000
+        role: Primary artist
+    version: original
+    isrc: SE6XX2541573
+    file: "../audio/decosystema-vol-1/DECO 5000 - Decosystema.wav"
+    contributors:
+      - name: DECO 5000
+        role: Producer
+      - name: Bendik Nesheim
+        role: Co-producer
+      - name: Herman Hovland
+        role: Programming (DAW)
+      - name: Herman Marensius Gjersøe
+        role: Composer
+
+  - track_number: 2
+    title: "Decosystema (Hovland Remix)"
+    artists:
+      - name: Hovland
+        role: Remix artist
+    version: remix
+    isrc: SE6XX2541574
+    file: "../audio/decosystema-vol-1/DECO 5000 - Decosystema (Hovland Remix).wav"
+    contributors:
+      - name: Hovland
+        role: Remix producer
+      - name: DECO 5000
+        role: Original producer
+
+  - track_number: 3
+    title: "Decosystema (TRUSSEL Remix)"
+    artists:
+      - name: Truls Slettvoll
+        role: Remix artist
+        ipi: 1215130904
+    version: remix
+    isrc: SE6XX2541575
+    file: "../audio/decosystema-vol-1/DECO 5000 - Decosystema (TRUSSEL Remix).wav"
+    contributors:
+      - name: Truls Slettvoll
+        role: Remix producer
+      - name: DECO 5000
+        role: Original producer
+
+  - track_number: 4
+    title: "Sublunar"
+    artists:
+      - name: DECO 5000
+        role: Primary artist
+    version: original
+    isrc: SE6XX2541576
+    file: "../audio/decosystema-vol-1/DECO 5000 - Sublunar.wav"
+    contributors:
+      - name: DECO 5000
+        role: Producer
+      - name: Bendik Nesheim
+        role: Co-producer
+
+  - track_number: 5
+    title: "MOMENTS"
+    artists:
+      - name: DECO 5000
+        role: Primary artist
+    version: original
+    isrc: SE6XX2541577
+    file: "../audio/decosystema-vol-1/DECO 5000 - MOMENTS.wav"
+    contributors:
+      - name: DECO 5000
+        role: Producer
+      - name: Bendik Nesheim
+        role: Co-producer
+
+  - track_number: 6
+    title: "Beatingheart"
+    artists:
+      - name: DECO 5000
+        role: Primary artist
+    version: original
+    isrc: SE6XX2541578
+    file: "../audio/decosystema-vol-1/DECO 5000 - Beatingheart.wav"
+    contributors:
+      - name: DECO 5000
+        role: Producer
+      - name: Bendik Nesheim
+        role: Co-producer
+
+splits:
+  - party: COMMA records
+    status: Active
+    share: 100.00%
+
