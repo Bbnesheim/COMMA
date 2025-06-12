@@ -92,3 +92,4 @@ node_modules/
 *.tmp
 *~
 folder-structure.txt
+catalog/recorded-mix/**/*.MP3
