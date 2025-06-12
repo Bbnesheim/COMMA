@@ -1,0 +1,37 @@
+id: COMMA.003
+title: "Marensius - For This Moment"
+genre: House
+release_id: 3712639
+label: COMMA.records
+tracks:
+  - track_number: 1
+    title: "For This Moment"
+    artists:
+      - name: Marensius
+        role: Primary artist
+    version: original
+    isrc: SE6XY2525973
+    file: "../audio/for-this-moment/Marensius - For This Moment(3).wav"
+    contributors:
+      - name: Marensius
+        role: Producer
+      - name: Hovland
+        role: Producer
+      - name: Herman Marensius Gjersøe
+        role: Composer
+      - name: Herman Marensius Gjersøe
+        role: Programming (DAW)
+      - name: Herman Hovland
+        role: Programming (DAW)
+      - name: Herman Hovland
+        role: Mixing engineer
+      - name: Herman Hovland
+        role: Mastering engineer
+      - name: Bendik Nesheim
+        role: Co-producer
+      - name: Bendik Nesheim
+        role: Graphic design
+splits:
+  - party: COMMA records
+    status: Active
+    share: 100.00%
