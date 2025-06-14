@@ -49,10 +49,10 @@ _Last updated: June 2025_
 
 ## 4. Imagery & Photography
 
-- **Style**: Clean, minimal, with high contrast and pops of Accent pink.  
+- **Style**: Clean, minimal, with high contrast and pops of accents
 - **Mood**: Energetic, modern, and slightly edgy — reflecting electronic music culture.  
 - **Do** crop tightly on performers; supply ample clear space around text overlays.  
-- **Don’t** use heavy filters or overly-saturated vintage effects.
+- **Don’t** use heavy filters or overly-saturated effects.
 
 ---
 
